@@ -30,7 +30,7 @@ body {
     display: table-cell;
     text-align: center;
     /*vertical-align: middle;*/
-    padding-top: 50px;
+    padding-top: 120px;
     color: white;
 }
 
@@ -260,4 +260,8 @@ footer {
   position: fixed;
   bottom: 5px;
   right: 5px;
+}
+
+.spotify-color {
+    color: #6FCE60;
 }
